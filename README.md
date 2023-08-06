@@ -112,7 +112,7 @@ Have not tried. \
 
 ## 🎮 Games
 [💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-When pirating videogames (just like software) there is a higer you will find viruses. Therefore I have only included sites that I have had good experiences with. And SteamUnlocked \
+When pirating videogames (just like software) there is a higer chance you will find viruses. Therefore I have only included sites that I have had good experiences with. And SteamUnlocked \
 Again please be careful. If possible use DODI or FatGirl repacks. The are curated and will therefore almost never contain ewwy ew stuff.
 
 ### Browser games
