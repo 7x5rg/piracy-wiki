@@ -5,11 +5,27 @@ The websites listed are listed in order. So from best to worst.
 
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads)
+  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents)
 * [📺 Movies & TV](https://github.com/7x5rg/piracy-wiki/tree/main#-movies--tv)
+  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-1)
+  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-1)
 * [🗻 Anime](https://github.com/7x5rg/piracy-wiki/tree/main#-anime)
+  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming-1)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-2)
+  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-2)
 * [🎵 Music](https://github.com/7x5rg/piracy-wiki/tree/main#-music)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-3)
+  * [Dekstop apps](https://github.com/7x5rg/piracy-wiki/tree/main#desktop-apps)
 * [🎮 Games](https://github.com/7x5rg/piracy-wiki/tree/main#-games)
+  * [Browser games](https://github.com/7x5rg/piracy-wiki/tree/main#browser-games)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-4)
+  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-3)
 * [💋 XXX](https://github.com/7x5rg/piracy-wiki/tree/main#-xxx)
+  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming-2)
+  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-5)
+  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-4)
 
 ## 📜 Other guides
 Most of this guide deserves the credit of r/Piracy's megathread. \
@@ -88,7 +104,7 @@ My go-to for music. \
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
 ### Desktop apps
-Have not tried.
+Have not tried. \
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 ## 🎮 Games
@@ -121,7 +137,7 @@ Not many great choices. \
 [Hanime](https://hanime.tv) \
 [HotPornFile](https://www.hotpornfile.org)
 
-### Direct download
+### Direct downloads
 Honestly some pretty good options. Use JDownloader for sites like pornhub too. \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
