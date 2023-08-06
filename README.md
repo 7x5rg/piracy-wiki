@@ -83,7 +83,7 @@ Pretty much all of these sites are great. \
 [KickassAnime](https://kickassanime.am)
 
 ### Direct downloads
-I have DDL'd any anime, but these have a good rep. \
+I have not DDL'd any anime, but these have a good rep. \
 [Judas DDL](https://rentry.co/judas-ddl) \
 [AnimeTime](https://www.animetime.pw) \
 [KayoAnime](https://kayoanime.com)
