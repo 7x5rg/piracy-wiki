@@ -83,7 +83,7 @@ Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
 ### Direct downloads
-My go-to for music.
+My go-to for music. \
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
