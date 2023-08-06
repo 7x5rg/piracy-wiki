@@ -3,7 +3,6 @@ Arrr! Welcome sailor! \
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
 The websites listed are listed in order. So from best to worst.
 
-* [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
   * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads)
   * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents)
@@ -26,13 +25,7 @@ The websites listed are listed in order. So from best to worst.
   * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming-2)
   * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-5)
   * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-4)
-
-## 📜 Other guides
-Most of this guide deserves the credit of r/Piracy's megathread. \
-[r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
-[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
-[Champagne Piracy Wiki](https://champagne.pages.dev/) \
-[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
+* [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 
 ## ⚒️ General purpose
 For everything else.
@@ -152,3 +145,10 @@ Have not tried most of these. \
 [PornRips](https://pornrips.to) \
 [SexyPorn](https://sxyprn.com) \
 [MyPorn](https://myporn.club)
+
+## 📜 Other guides
+Most of this guide deserves the credit of r/Piracy's megathread. \
+[r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
+[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
+[Champagne Piracy Wiki](https://champagne.pages.dev/) \
+[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
