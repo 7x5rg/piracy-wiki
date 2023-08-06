@@ -7,6 +7,8 @@ The websites listed are listed in order. So from best to worst.
 Coming soon...
 
 # 💾 Table of contents
+* [🏴‍☠️ 7x5rg's guide to the world of digital piracy](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-7x5rgs-guide-to-the-world-of-digital-piracy)
+* [✋ Before you begin](https://github.com/7x5rg/piracy-wiki/tree/main#-before-you-begin)
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
   * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads)
   * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents)
