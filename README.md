@@ -34,6 +34,7 @@ Coming soon...
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 
 ## ⚒️ General purpose
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 For everything else.
 
 ### Direct downloads
@@ -47,6 +48,7 @@ You will never find the best torrents here, but you will almost always find some
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup>
 
 ## 📺 Movies & TV
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Cancel your Netflix subscription already. \
 At this point we have some pretty great choices for piracy of movies and shows. Even after the death of RARBG. R.I.P
 
@@ -69,6 +71,7 @@ Finding 4K rips can be harder, especially for shows. For movies I'd reccommend Y
 [RARBG DUMP INDEX by OlaMovies](https://rarbg.best) - With the recent shutdown of rarbg.to, this site was created for preserving the magnet links for all the torrents.
 
 ## 🗻 Anime
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Anime piracy goes hard as fuck. \
 You got such a wide variety of choice however you intend to watch, so just dig in!
 
@@ -94,6 +97,7 @@ When looking for torrents, I'd look for Judas, Anime Time or EMBER rips (in that
 [AnimeTime](https://www.animetime.pw)
 
 ## 🎵 Music
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
@@ -107,6 +111,7 @@ Have not tried. \
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 ## 🎮 Games
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 When pirating videogames (just like software) there is a higer you will find viruses. Therefore I have only included sites that I have had good experiences with. And SteamUnlocked \
 Again please be careful. If possible use DODI or FatGirl repacks. The are curated and will therefore almost never contain ewwy ew stuff.
 
@@ -126,6 +131,7 @@ Definately the best place to download games. \
 [FitGirl Repacks](https://fitgirl-repacks.site)
 
 ## 💋 XXX
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Onlyfans & fansly leaks ftw.
 
 ### Streaming
@@ -153,6 +159,7 @@ Have not tried most of these. \
 [MyPorn](https://myporn.club)
 
 ## 📜 Other guides
+[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Most of this guide deserves the credit of r/Piracy's megathread. \
 [r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
