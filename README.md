@@ -3,8 +3,12 @@ Arrr! Welcome sailor! \
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
 The websites listed are listed in order. So from best to worst.
 
+---
+
 # ✋ Before you begin
 Coming soon...
+
+---
 
 # 💾 Table of contents
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
