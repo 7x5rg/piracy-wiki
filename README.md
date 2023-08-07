@@ -92,8 +92,7 @@ You got such a wide variety of choice however you intend to watch, so just dig i
 ### Streaming
 Pretty much all of these sites are great. \
 [AniWatch (formerly zoro.to)](https://aniwatch.to) - Includes filler guide for One Piece \
-[9anime](https://9anime.me) \
-[AniWave](https://aniwave.to) \
+[AniWave (formerly 9anime.me)](https://aniwave.to) \
 [AnimePahe](https://animepahe.ru) \
 [KissAnime](https://kisame.tv) \
 [KickassAnime](https://kickassanime.am)
