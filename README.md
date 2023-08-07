@@ -35,6 +35,8 @@ Coming soon...
   * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-4)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 
+---
+
 ## ⚒️ General purpose
 [💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 For everything else.
