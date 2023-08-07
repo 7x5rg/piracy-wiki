@@ -61,9 +61,15 @@ At this point we have some pretty great choices for piracy of movies and shows. 
 ### Streaming
 These sites are pretty great, but some experince buffering more than others. Some have more subtitles. Look around! \
 [HDToday](https://hdtoday.ru) - Good selection of subs \
+[Seez](https://seez.su) \
 [FlixHQ](https://flixhq.click/home) \
+[SFlix](https://sflix.to/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
-[movie-web](https://movie-web.app)
+[FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
+[Smashystream](https://embed.smashystream.com) <sup>[Mirror1](https://smashystream.xyz)</sup> \
+[movie-web](https://movie-web.app) \
+[123Movies](https://123chill.to) \
+[Soap2Day](https://soap2day.rs) <sup>[Mirror1](https://soap2day.mn)</sup>
 
 ### Direct downloads
 Honestly not worth the hassle. \
