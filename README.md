@@ -31,7 +31,7 @@ Coming soon...
   * [Browser gaming](https://github.com/7x5rg/piracy-wiki#browser-gaming)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-4)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-3)
-* [📚 Books]
+* [📚 Books](https://github.com/7x5rg/piracy-wiki#-books)
   * [Browser reading](https://github.com/7x5rg/piracy-wiki#browser-reading)
   * [App reading](https://github.com/7x5rg/piracy-wiki#app-reading)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-5)
