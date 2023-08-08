@@ -165,9 +165,6 @@ If you really want to torrent music you will have to find some private trackers.
 [Travis Scott unreleased tracker](https://docs.google.com/spreadsheets/d/1n15Im4plMmRLhLSOduP7_Q92BAuihVUtS4lDQLPpHbk/edit#gid=699519374) \
 [Cover Search Engine](https://covers.musichoarders.xyz) - HQ images of album covers
 
-### Desktop listening
-[SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-
 ---
 
 ## 🎮 Games
