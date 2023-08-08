@@ -16,12 +16,12 @@ Coming soon...
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting)
 * [📺 Movies & TV](https://github.com/7x5rg/piracy-wiki/tree/main#-movies--tv)
   * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming)
-  * [App streaming](https://github.com/7x5rg/piracy-wiki#app-streaming)
+  * [Mobile streaming](https://github.com/7x5rg/piracy-wiki#mobile-streaming)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-1)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-1)
 * [🗻 Anime](https://github.com/7x5rg/piracy-wiki/tree/main#-anime)
   * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-1)
-  * [App streaming](https://github.com/7x5rg/piracy-wiki#app-streaming-1)
+  * [Mobile streaming](https://github.com/7x5rg/piracy-wiki#mobile-streaming-1)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-2)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-2)
 * [🎵 Music](https://github.com/7x5rg/piracy-wiki/tree/main#-music)
@@ -33,7 +33,7 @@ Coming soon...
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-3)
 * [📚 Books](https://github.com/7x5rg/piracy-wiki#-books)
   * [Browser reading](https://github.com/7x5rg/piracy-wiki#browser-reading)
-  * [App reading](https://github.com/7x5rg/piracy-wiki#app-reading)
+  * [Mobile reading](https://github.com/7x5rg/piracy-wiki#mobile-reading)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-5)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-4)
 * [💋 XXX](https://github.com/7x5rg/piracy-wiki/tree/main#-xxx)
@@ -41,6 +41,7 @@ Coming soon...
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
+  * []()
 
 ---
 
@@ -59,7 +60,7 @@ For everything else.
 ---
 
 ## 📺 Movies & TV
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Cancel your Netflix subscription already. \
 At this point we have some pretty great choices for piracy of movies and shows. Even after the death of RARBG. R.I.P
 
@@ -75,7 +76,7 @@ At this point we have some pretty great choices for piracy of movies and shows. 
 [123Movies](https://123chill.to) \
 [Soap2Day](https://soap2day.rs) <sup>[Mirror1](https://soap2day.mn)</sup>
 
-### App streaming
+### Mobile streaming
 [Cloudstream](https://github.com/recloudstream/cloudstream)
 
 ### Direct downloading
@@ -90,7 +91,7 @@ At this point we have some pretty great choices for piracy of movies and shows. 
 ---
 
 ## 🗻 Anime
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Anime piracy goes hard as fuck. \
 You got such a wide variety of choice however you intend to watch, so just dig in!
 
@@ -101,7 +102,7 @@ You got such a wide variety of choice however you intend to watch, so just dig i
 [KissAnime](https://kisame.tv) \
 [KickassAnime](https://kickassanime.am)
 
-### App streaming
+### Mobile streaming
 [AnimeXStream](https://github.com/mukul500/AnimeXStream) - If search doesnt work, clear cache on app. \
 [Aniyomi](https://github.com/jmir1/aniyomi) - Fork of Tachiyomi for anime \
 [Cloudstream](https://github.com/recloudstream/cloudstream)
@@ -119,7 +120,7 @@ You got such a wide variety of choice however you intend to watch, so just dig i
 ---
 
 ## 🎵 Music
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
@@ -133,7 +134,7 @@ If you really want to torrent music you will have to find some private trackers.
 ---
 
 ## 🎮 Games
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 When pirating videogames (just like software) there is a higer chance you will find viruses. Therefore I have only included sites that I have had good experiences with. And SteamUnlocked \
 Again please be careful. If possible use DODI or FatGirl repacks. The are curated and will therefore almost never contain ewwy ew stuff.
 
@@ -152,7 +153,7 @@ Again please be careful. If possible use DODI or FatGirl repacks. The are curate
 ---
 
 ## 📚 Books
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Pirating ebooks has been done for a while now. Whether it be manga, academic books or regular novels, there are some great sites out there for everything. \
 Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
 
@@ -162,7 +163,7 @@ Ebooks are in their nature very small file sizes, so it might be worth it to jus
 [ComicExtra](https://comicextra.net) \
 [Project Gutenberg](https://www.gutenberg.org)
 
-### App reading
+### Mobile reading
 [Tachiyomi](https://tachiyomi.org) \
 [Libgen for android](https://github.com/manuelvargastapia/libgen_mobile_app) \
 [Librebook for android](https://github.com/bagaswastu/librebook)
@@ -180,7 +181,7 @@ Ebooks are in their nature very small file sizes, so it might be worth it to jus
 ---
 
 ## 💋 XXX
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Onlyfans & fansly leaks ftw.
 
 ### Browser streaming
@@ -207,10 +208,16 @@ Onlyfans & fansly leaks ftw.
 ---
 
 ## 📜 Other guides
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Most of this guide deserves the credit of r/Piracy's megathread. \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+Most of this guide deserves the credit of r/Piracy's megathread.
+
+### General
 [r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
-[Champagne Piracy Wiki](https://champagne.pages.dev/) \
-[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup> \
+[Champagne Piracy Wiki](https://champagne.pages.dev/)
+
+### XXX
+[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
+
+### Anime/manga/hentai
 [Moe - The Index](https://theindex.moe)
