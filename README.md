@@ -45,7 +45,7 @@ Coming soon...
 ---
 
 ## ⚒️ General purpose
-[💾 Table of contents](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 For everything else.
 
 ### Direct downloading
