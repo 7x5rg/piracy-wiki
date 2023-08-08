@@ -12,27 +12,34 @@ Coming soon...
 
 # 💾 Table of contents
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads)
-  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting)
 * [📺 Movies & TV](https://github.com/7x5rg/piracy-wiki/tree/main#-movies--tv)
-  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-1)
-  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-1)
+  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming)
+  * [App streaming](https://github.com/7x5rg/piracy-wiki#app-streaming)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-1)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-1)
 * [🗻 Anime](https://github.com/7x5rg/piracy-wiki/tree/main#-anime)
-  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming-1)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-2)
-  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-2)
+  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-1)
+  * [App streaming](https://github.com/7x5rg/piracy-wiki#app-streaming-1)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-2)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-2)
 * [🎵 Music](https://github.com/7x5rg/piracy-wiki/tree/main#-music)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-3)
-  * [Dekstop apps](https://github.com/7x5rg/piracy-wiki/tree/main#desktop-apps)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-3)
+  * [Desktop listening](https://github.com/7x5rg/piracy-wiki#desktop-listening)
 * [🎮 Games](https://github.com/7x5rg/piracy-wiki/tree/main#-games)
-  * [Browser games](https://github.com/7x5rg/piracy-wiki/tree/main#browser-games)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-4)
-  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-3)
+  * [Browser gaming](https://github.com/7x5rg/piracy-wiki#browser-gaming)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-4)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-3)
+* [📚 Books]
+  * [Browser reading](https://github.com/7x5rg/piracy-wiki#browser-reading)
+  * [App reading](https://github.com/7x5rg/piracy-wiki#app-reading)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-5)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-4)
 * [💋 XXX](https://github.com/7x5rg/piracy-wiki/tree/main#-xxx)
-  * [Streaming](https://github.com/7x5rg/piracy-wiki/tree/main#streaming-2)
-  * [Direct downloads](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloads-5)
-  * [Torrents](https://github.com/7x5rg/piracy-wiki/tree/main#torrents-4)
+  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-2)
+  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
+  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
 
 ---
@@ -42,11 +49,9 @@ Coming soon...
 For everything else.
 
 ### Direct downloading
-JDownloader is great for downloading almost any type of porn too. \
 [JDownloader](https://jdownloader.org)
 
 ### Torrenting
-You will never find the best torrents here, but you will almost always find some for what you are looking for. \
 [The Pirate Bay](https://thepiratebay.org) <sup>[TOR](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion)</sup> \
 [1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup>
@@ -59,7 +64,6 @@ Cancel your Netflix subscription already. \
 At this point we have some pretty great choices for piracy of movies and shows. Even after the death of RARBG. R.I.P
 
 ### Browser streaming
-These sites are pretty great, but some experince buffering more than others. Some have more subtitles. Look around! \
 [HDToday](https://hdtoday.ru) - Good selection of subs \
 [Seez](https://seez.su) \
 [FlixHQ](https://flixhq.click/home) \
@@ -75,11 +79,9 @@ These sites are pretty great, but some experince buffering more than others. Som
 [Cloudstream](https://github.com/recloudstream/cloudstream)
 
 ### Direct downloading
-Honestly not worth the hassle. \
 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 
 ### Torrenting
-Finding 4K rips can be harder, especially for shows. For movies I'd reccommend YTS. \
 [YTS YIFY movies](https://yts.mx) <sup>[Proxy1](https://yts.lt) • [Proxy2](https://yts.am) • [Proxy3](https://yts.ag) • [TOR](http://ytsyifyupcmxftncrnqd4bmwxvhlibhdat74w6xnmn33njxts4eeaiqd.onion)</sup> - By far the best site for movies \
 [1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup> \
@@ -93,7 +95,6 @@ Anime piracy goes hard as fuck. \
 You got such a wide variety of choice however you intend to watch, so just dig in!
 
 ### Browser streaming
-Pretty much all of these sites are great. \
 [AniWatch (formerly zoro.to)](https://aniwatch.to) - Includes filler guide for One Piece \
 [AniWave (formerly 9anime.me)](https://aniwave.to) \
 [AnimePahe](https://animepahe.ru) \
@@ -101,19 +102,16 @@ Pretty much all of these sites are great. \
 [KickassAnime](https://kickassanime.am)
 
 ### App streaming
-Adding 3rd party sources is often necessary. \
 [AnimeXStream](https://github.com/mukul500/AnimeXStream) - If search doesnt work, clear cache on app. \
 [Aniyomi](https://github.com/jmir1/aniyomi) - Fork of Tachiyomi for anime \
 [Cloudstream](https://github.com/recloudstream/cloudstream)
 
 ### Direct downloading
-I have not DDL'd any anime, but these have a good rep. \
 [Judas DDL](https://rentry.co/judas-ddl) \
 [AnimeTime](https://www.animetime.pw) \
 [KayoAnime](https://kayoanime.com)
 
 ### Torrenting
-When looking for torrents, I'd look for Judas, Anime Time or EMBER rips (in that order). Also always sort by seeders. \
 [Nyaa](https://nyaa.si) - The GOAT \
 [SubsPlease](https://subsplease.org) - Fast releases \
 [AnimeTime](https://www.animetime.pw)
@@ -126,12 +124,10 @@ Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
 ### Direct downloading
-My go-to for music. \
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
 ### Desktop listening
-Have not tried. \
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 ---
@@ -142,17 +138,14 @@ When pirating videogames (just like software) there is a higer chance you will f
 Again please be careful. If possible use DODI or FatGirl repacks. The are curated and will therefore almost never contain ewwy ew stuff.
 
 ### Browser gaming
-These are great for just finding random games too pass time. \
 [Play Retro Games Online](https://www.playretrogames.com) \
 [Crazy Games](https://www.crazygames.com) 
 
 ### Direct downloading
-Watch out here. \
 [GOG Games](https://gog-games.to) \
 [Steam Unlocked](https://steamunlocked.net) - Watch out for viruses
 
 ### Torrenting
-Definately the best place to download games. \
 [DODI Repacks](https://dodi-repacks.site) \
 [FitGirl Repacks](https://fitgirl-repacks.site)
 
@@ -164,27 +157,23 @@ Pirating ebooks has been done for a while now. Whether it be manga, academic boo
 Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
 
 ### Browser reading
-Great choices for manga. \
 [MangaReader](https://mangareader.to) \
 [MangaFire](https://mangafire.to) \
 [ComicExtra](https://comicextra.net) \
 [Project Gutenberg](https://www.gutenberg.org)
 
 ### App reading
-Usually you have to add 3rd party sources. \
 [Tachiyomi](https://tachiyomi.org) \
 [Libgen for android](https://github.com/manuelvargastapia/libgen_mobile_app) \
 [Librebook for android](https://github.com/bagaswastu/librebook)
 
 ### Direct downloading
-Classics. \
 [Anna's Archive](https://annas-archive.org) \
 [Library Genesis](https://libgen.is) <sup>[Mirror1](https://libgen.rs) • [Mirror2](https://libgen.st) • [Manga](https://libgen.fun)</sup> \
 [PDFDrive](https://pdfdrive.to) \
 [Project Gutenberg](https://www.gutenberg.org)
 
 ### Torrenting
-Most torrent sites for ebooks are private, signup or small communities. \
 [Anna's Archive](https://annas-archive.org) \
 [Nyaa](https://nyaa.si) - Select "Literature" category
 
@@ -195,7 +184,6 @@ Most torrent sites for ebooks are private, signup or small communities. \
 Onlyfans & fansly leaks ftw.
 
 ### Browser streaming
-Not many great choices. \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
 [UnderHentai](https://www.underhentai.net) \
@@ -203,7 +191,6 @@ Not many great choices. \
 [HotPornFile](https://www.hotpornfile.org)
 
 ### Direct downloading
-Honestly some pretty good options. Use JDownloader for sites like pornhub too. \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
 [UnderHentai](https://www.underhentai.net) \
@@ -211,7 +198,6 @@ Honestly some pretty good options. Use JDownloader for sites like pornhub too. \
 [9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
 
 ### Torrenting
-Have not tried most of these. \
 [UnderHentai](https://www.underhentai.net) \
 [Sukebei Nyaa](https://sukebei.nyaa.si) \
 [PornRips](https://pornrips.to) \
