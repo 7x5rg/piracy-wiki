@@ -14,8 +14,12 @@ Before you begin down loading you should make the necessary security precautions
 
 ### Direct downloading tools
 [JDownloader](https://jdownloader.org) \
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"` for music \
 [9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
+
+### YouTube downloading tools
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) \
+For videos: `yt-dlp --embed-metadata --format mp4 "<url>"`
+For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"` \
 
 ### Torrenting clients
 [qBittorrent](https://www.qbittorrent.org) \
