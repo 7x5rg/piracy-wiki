@@ -61,6 +61,7 @@ Before you begin down loading you should make the necessary security precautions
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
   * [General](https://github.com/7x5rg/piracy-wiki#general)
+  * [Movies](https://github.com/7x5rg/piracy-wiki#movies)
   * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
   * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
 
