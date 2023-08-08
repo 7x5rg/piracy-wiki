@@ -16,10 +16,12 @@ Before you begin down loading you should make the necessary security precautions
 [JDownloader](https://jdownloader.org) \
 [9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
 
-### YouTube downloading tools
+### YouTube tools
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) \
 For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
 For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
+
+[Revanced](https://revanced.app)
 
 ### Torrenting clients
 [qBittorrent](https://www.qbittorrent.org) \
@@ -149,6 +151,12 @@ Anime piracy goes hard as fuck.
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
+
+### Mobile listening
+[Revanced](https://revanced.app)
+
+### Desktop listening
+[SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 ### Direct downloading
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
