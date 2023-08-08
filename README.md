@@ -1,12 +1,11 @@
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
-Arrr! Welcome sailor! \
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
 The websites listed are listed in order. So from best to worst.
 
 ---
 
 # ✋ Before you begin
-Before you begin down loading you should make the necessary security precautions, and get the right tools.
+Before you begin downloading you should make the necessary security precautions, and get the right tools.
 
 ### VPN
 [Torguard](https://torguard.net) \
@@ -90,7 +89,6 @@ For all your needs.
 
 ## 📺 Movies & TV
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Cancel your Netflix subscription already. \
 R.I.P RARBG
 
 ### Browser streaming
@@ -150,7 +148,6 @@ Anime piracy goes hard as fuck.
 
 ## 🎵 Music
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Music piracy has been a bitch ever since Napster shut down. \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
 ### Mobile listening
@@ -169,8 +166,7 @@ If you really want to torrent music you will have to find some private trackers.
 
 ## 🎮 Games
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-When pirating videogames (just like software) there is a higer chance you will find viruses. Therefore I have only included sites that I have had good experiences with. And SteamUnlocked \
-Again please be careful. If possible use DODI or FatGirl repacks. The are curated and will therefore almost never contain ewwy ew stuff.
+Again please be careful of viruses. If possible use DODI or FatGirl repacks. They are curated and will therefore almost never contain ewwwy eww stuff.
 
 ### Browser gaming
 [Play Retro Games Online](https://www.playretrogames.com) \
