@@ -212,5 +212,5 @@ Most of this guide deserves the credit of r/Piracy's megathread. \
 [r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
 [Champagne Piracy Wiki](https://champagne.pages.dev/) \
-[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
+[Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup> \
 [Moe - The Index](https://theindex.moe)
