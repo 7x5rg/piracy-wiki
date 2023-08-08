@@ -41,7 +41,9 @@ Coming soon...
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
-  * []()
+  * [General](https://github.com/7x5rg/piracy-wiki#general)
+  * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
+  * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
 
 ---
 
