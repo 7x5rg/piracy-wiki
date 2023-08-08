@@ -6,7 +6,26 @@ The websites listed are listed in order. So from best to worst.
 ---
 
 # ✋ Before you begin
-Coming soon...
+Before you begin down loading you should make the necessary security precautions, and get the right tools.
+
+### VPN
+[Torguard](https://torguard.net) \
+[Mullvad](https://mullvad.net)
+
+### Direct downloading tools
+[JDownloader](https://jdownloader.org) \
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"` for music \
+[9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
+
+### Torrenting clients
+[qBittorrent](https://www.qbittorrent.org) \
+[Transmission](https://transmissionbt.com/)
+
+### Adblocker
+[uBlock Origin](https://ublockorigin.com)
+
+### Anti-virus software
+[Malwarebytes](https://www.malwarebytes.com)
 
 ---
 
@@ -49,10 +68,10 @@ Coming soon...
 
 ## ⚒️ General purpose
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-For everything else.
+For all your needs.
 
 ### Direct downloading
-[JDownloader](https://jdownloader.org)
+[Internet Archive](https://archive.org)
 
 ### Torrenting
 [The Pirate Bay](https://thepiratebay.org) <sup>[TOR](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion)</sup> \
@@ -64,7 +83,7 @@ For everything else.
 ## 📺 Movies & TV
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Cancel your Netflix subscription already. \
-At this point we have some pretty great choices for piracy of movies and shows. Even after the death of RARBG. R.I.P
+R.I.P RARBG
 
 ### Browser streaming
 [HDToday](https://hdtoday.ru) - Good selection of subs \
@@ -88,14 +107,14 @@ At this point we have some pretty great choices for piracy of movies and shows. 
 [YTS YIFY movies](https://yts.mx) <sup>[Proxy1](https://yts.lt) • [Proxy2](https://yts.am) • [Proxy3](https://yts.ag) • [TOR](http://ytsyifyupcmxftncrnqd4bmwxvhlibhdat74w6xnmn33njxts4eeaiqd.onion)</sup> - By far the best site for movies \
 [1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup> \
-[RARBG DUMP INDEX by OlaMovies](https://rarbg.best) - With the recent shutdown of rarbg.to, this site was created for preserving the magnet links for all the torrents.
+[RARBG DUMP INDEX by OlaMovies](https://rarbg.best) - With the recent shutdown of rarbg.to, this site was created for preserving the magnet links for all the torrents. \
+[IMDb torrents](https://www.imdbtorrent.com/imdb-top-250-english-movies-download)
 
 ---
 
 ## 🗻 Anime
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Anime piracy goes hard as fuck. \
-You got such a wide variety of choice however you intend to watch, so just dig in!
+Anime piracy goes hard as fuck.
 
 ### Browser streaming
 [AniWave (formerly 9anime.me)](https://aniwave.to) - Like AniWatch but with better skips and less downtime \
@@ -128,7 +147,9 @@ If you really want to torrent music you will have to find some private trackers.
 
 ### Direct downloading
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) - Use something like `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
+[Ye unreleased tracker](https://trackerhub.vercel.app/s/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k) \
+[Travis Scott unreleased tracker](https://docs.google.com/spreadsheets/d/1n15Im4plMmRLhLSOduP7_Q92BAuihVUtS4lDQLPpHbk/edit#gid=699519374) \
+[Cover Search Engine](https://covers.musichoarders.xyz) - HQ images of album covers
 
 ### Desktop listening
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
@@ -156,7 +177,6 @@ Again please be careful. If possible use DODI or FatGirl repacks. The are curate
 
 ## 📚 Books
 [⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Pirating ebooks has been done for a while now. Whether it be manga, academic books or regular novels, there are some great sites out there for everything. \
 Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
 
 ### Browser reading
@@ -198,7 +218,6 @@ Onlyfans & fansly leaks ftw.
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
 [UnderHentai](https://www.underhentai.net) \
 [SFM Compile Club](https://sfmcompile.club) \
-[9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
 
 ### Torrenting
 [UnderHentai](https://www.underhentai.net) \
@@ -217,6 +236,9 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 [r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+
+### Movies
+[Wikipedia - Pirated movie release types](https://en.wikipedia.org/wiki/Pirated_movie_release_types)
 
 ### XXX
 [Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
