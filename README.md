@@ -18,8 +18,8 @@ Before you begin down loading you should make the necessary security precautions
 
 ### YouTube downloading tools
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) \
-For videos: `yt-dlp --embed-metadata --format mp4 "<url>"`
-For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"` \
+For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
+For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
 ### Torrenting clients
 [qBittorrent](https://www.qbittorrent.org) \
