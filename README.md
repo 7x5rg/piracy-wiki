@@ -214,15 +214,21 @@ Ebooks are in their nature very small file sizes, so it might be worth it to jus
 Onlyfans & fansly leaks ftw.
 
 ### Browser streaming
+[Jav Guru](https://jav.guru) \
+[JAVGG](https://javgg.net) \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
+[Rule34Video](https://rule34video.com) \
 [UnderHentai](https://www.underhentai.net) \
 [Hanime](https://hanime.tv) \
 [HotPornFile](https://www.hotpornfile.org)
 
 ### Direct downloading
+[Jav Guru](https://jav.guru) \
+[JAVGG](https://javgg.net) \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
+[Rule34Video](https://rule34video.com) \
 [UnderHentai](https://www.underhentai.net) \
 [SFM Compile Club](https://sfmcompile.club)
 
