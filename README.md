@@ -16,11 +16,10 @@ Before you begin downloading you should make the necessary security precautions,
 [9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
 
 ### YouTube tools
+[Revanced](https://revanced.app)
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) \
 For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
 For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
-
-[Revanced](https://revanced.app)
 
 ### Torrenting clients
 [qBittorrent](https://www.qbittorrent.org) \
