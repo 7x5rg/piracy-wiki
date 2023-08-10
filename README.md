@@ -142,6 +142,7 @@ Anime piracy goes hard as fuck.
 
 ### Torrenting
 [Nyaa](https://nyaa.si) - The GOAT \
+[AniDex](https://anidex.info) \
 [SubsPlease](https://subsplease.org) - Fast releases \
 [AnimeTime](https://www.animetime.pw)
 
