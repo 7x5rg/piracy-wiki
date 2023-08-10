@@ -125,7 +125,7 @@ Anime piracy goes hard as fuck.
 [AniWave (formerly 9anime.me)](https://aniwave.to/home) - Like AniWatch but with better skips and less downtime \
 [AniWatch (formerly zoro.to)](https://aniwatch.to/home) - Includes filler guide for One Piece \
 [Anix](https://anix.to) \
-[OnePace](https://rentry.co/onepace) \
+[LOGOSou's OnePace](https://rentry.co/onepace) \
 [AnimePahe](https://animepahe.ru) \
 [KissAnime](https://kisame.tv) \
 [KickassAnime](https://kickassanime.am)
