@@ -5,6 +5,7 @@ The websites listed are listed in order. So from best to worst.
 ---
 
 # ✋ Before you begin
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Before you begin downloading you should make the necessary security precautions, and get the right tools.
 
 ### VPN
@@ -73,7 +74,7 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 ---
 
 ## ⚒️ General purpose
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 For all your needs.
 
 ### Direct downloading
@@ -87,7 +88,7 @@ For all your needs.
 ---
 
 ## 📺 Movies & TV
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 R.I.P RARBG
 
 ### Browser streaming
@@ -118,7 +119,7 @@ R.I.P RARBG
 ---
 
 ## 🗻 Anime
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Anime piracy goes hard as fuck.
 
 ### Browser streaming
@@ -149,7 +150,7 @@ Anime piracy goes hard as fuck.
 ---
 
 ## 🎵 Music
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
 ### Mobile listening
@@ -167,7 +168,7 @@ If you really want to torrent music you will have to find some private trackers.
 ---
 
 ## 🎮 Games
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Again please be careful of viruses. If possible use DODI or FatGirl repacks. They are curated and will therefore almost never contain ewwwy eww stuff.
 
 ### Browser gaming
@@ -185,7 +186,7 @@ Again please be careful of viruses. If possible use DODI or FatGirl repacks. The
 ---
 
 ## 📚 Books
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
 
 ### Browser reading
@@ -212,7 +213,7 @@ Ebooks are in their nature very small file sizes, so it might be worth it to jus
 ---
 
 ## 💋 XXX
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Onlyfans & fansly leaks ftw.
 
 ### Browser streaming
@@ -244,7 +245,7 @@ Onlyfans & fansly leaks ftw.
 ---
 
 ## 📜 Other guides
-[⬆️](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Most of this guide deserves the credit of r/Piracy's megathread.
 
 ### General
