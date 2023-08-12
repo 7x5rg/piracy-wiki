@@ -93,10 +93,10 @@ R.I.P RARBG
 
 ### Browser streaming
 [HDToday](https://hdtoday.ru) - Good selection of subs \
-[Seez](https://seez.su) \
 [FlixHQ](https://flixhq.click/home) \
 [SFlix](https://sflix.to/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
+[Seez](https://seez.su) \
 [FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
 [Smashystream](https://embed.smashystream.com) <sup>[Mirror1](https://smashystream.xyz)</sup> \
 [movie-web](https://movie-web.app) \
