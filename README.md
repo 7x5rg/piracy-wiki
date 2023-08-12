@@ -190,8 +190,8 @@ Again please be careful of viruses. If possible use DODI or FatGirl repacks. The
 Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
 
 ### Browser reading
-[MangaReader](https://mangareader.to) \
-[MangaFire](https://mangafire.to) \
+[MangaReader](https://mangareader.to/home) \
+[MangaFire](https://mangafire.to/home) \
 [ComicExtra](https://comicextra.net) \
 [Project Gutenberg](https://www.gutenberg.org)
 
