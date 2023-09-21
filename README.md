@@ -32,6 +32,10 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 ### Anti-virus software
 [Malwarebytes](https://www.malwarebytes.com)
 
+### Subtitles
+[Open Subtitles](https://www.opensubtitles.com) \
+[Subdl](https://subdl.com)
+
 ---
 
 # 💾 Table of contents
