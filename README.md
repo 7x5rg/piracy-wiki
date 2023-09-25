@@ -4,39 +4,6 @@ The websites listed are listed in order. So from best to worst.
 
 ---
 
-# ✋ Before you begin
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Before you begin downloading you should make the necessary security precautions, and get the right tools.
-
-### VPN
-[Torguard](https://torguard.net) \
-[Mullvad](https://mullvad.net)
-
-### Direct downloading tools
-[JDownloader](https://jdownloader.org)
-
-### YouTube tools
-[Revanced](https://revanced.app) \
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) \
-For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
-For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
-
-### Torrenting clients
-[qBittorrent](https://www.qbittorrent.org) \
-[Transmission](https://transmissionbt.com/)
-
-### Adblocker
-[uBlock Origin](https://ublockorigin.com)
-
-### Anti-virus software
-[Malwarebytes](https://www.malwarebytes.com)
-
-### Subtitles
-[Open Subtitles](https://www.opensubtitles.com) \
-[Subdl](https://subdl.com)
-
----
-
 # 💾 Table of contents
 * [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
   * [VPN](https://github.com/7x5rg/piracy-wiki#vpn)
@@ -81,6 +48,39 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
   * [Release types](https://github.com/7x5rg/piracy-wiki#release-types)
   * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
   * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
+
+---
+
+# ✋ Before you begin
+[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
+Before you begin downloading you should make the necessary security precautions, and get the right tools.
+
+### VPN
+[Torguard](https://torguard.net) \
+[Mullvad](https://mullvad.net)
+
+### Direct downloading tools
+[JDownloader](https://jdownloader.org)
+
+### YouTube tools
+[Revanced](https://revanced.app) \
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) \
+For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
+For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
+
+### Torrenting clients
+[qBittorrent](https://www.qbittorrent.org) \
+[Transmission](https://transmissionbt.com/)
+
+### Adblocker
+[uBlock Origin](https://ublockorigin.com)
+
+### Anti-virus software
+[Malwarebytes](https://www.malwarebytes.com)
+
+### Subtitles
+[Open Subtitles](https://www.opensubtitles.com) \
+[Subdl](https://subdl.com)
 
 ---
 
