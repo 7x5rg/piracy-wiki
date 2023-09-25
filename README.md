@@ -70,7 +70,7 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
 * [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
   * [General](https://github.com/7x5rg/piracy-wiki#general)
-  * [Movies](https://github.com/7x5rg/piracy-wiki#movies)
+  * [Release types](https://github.com/7x5rg/piracy-wiki#release-types)
   * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
   * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
 
