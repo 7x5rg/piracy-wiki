@@ -132,6 +132,7 @@ THE ONE PIECE IS REAL
 [Anix](https://anix.to) \
 [LOGOSou's OnePace](https://rentry.co/onepace) \
 [AnimePahe](https://animepahe.ru) \
+[Gogoanime](https://gogoanimehd.io) \
 [KissAnime](https://kisame.tv) \
 [KickassAnime](https://kickassanime.am)
 
