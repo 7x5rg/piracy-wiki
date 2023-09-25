@@ -128,6 +128,7 @@ THE ONE PIECE IS REAL
 ### Browser streaming
 [AniWave (formerly 9anime.me)](https://aniwave.to/home) - Like AniWatch but with better skips and less downtime \
 [AniWatch (formerly zoro.to)](https://aniwatch.to/home) - Includes filler guide for One Piece \
+[AllAnime](https://allanime.to) - High quality videos \
 [Anix](https://anix.to) \
 [LOGOSou's OnePace](https://rentry.co/onepace) \
 [AnimePahe](https://animepahe.ru) \
@@ -252,4 +253,5 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 [Porn Dude](https://theporndude.com) <sup>[Mirror1](https://porndude2.com) • [Mirror2](https://theporndude.vip) • [Mirror3](https://pornsites.com) • [Mirror4](https://porngeek.com)</sup>
 
 ### Anime/manga/hentai
-[Moe - The Index](https://theindex.moe)
+[Moe - The Index](https://theindex.moe) \
+[Moe - The Wiki](https://thewiki.moe)
