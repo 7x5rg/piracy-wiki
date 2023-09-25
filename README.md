@@ -13,7 +13,7 @@ Before you begin downloading you should make the necessary security precautions,
 [Mullvad](https://mullvad.net)
 
 ### Direct downloading tools
-[JDownloader](https://jdownloader.org) \
+[JDownloader](https://jdownloader.org)
 
 ### YouTube tools
 [Revanced](https://revanced.app) \
@@ -38,6 +38,14 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 ---
 
 # 💾 Table of contents
+* [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
+  * [VPN](https://github.com/7x5rg/piracy-wiki#vpn)
+  * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki#direct-downloading-tools)
+  * [YouTube tools](https://github.com/7x5rg/piracy-wiki#youtube-tools)
+  * [Torrenting clients](https://github.com/7x5rg/piracy-wiki#torrenting-clients)
+  * [Adblocker](https://github.com/7x5rg/piracy-wiki#adblocker)
+  * [Anti-virus software](https://github.com/7x5rg/piracy-wiki#anti-virus-software)
+  * [Subtitles](https://github.com/7x5rg/piracy-wiki#subtitles)
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting)
