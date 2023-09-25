@@ -14,7 +14,6 @@ Before you begin downloading you should make the necessary security precautions,
 
 ### Direct downloading tools
 [JDownloader](https://jdownloader.org) \
-[9xbuddy](https://9xbuddy.xyz) - Online downloader for sites like PornHub
 
 ### YouTube tools
 [Revanced](https://revanced.app) \
@@ -124,7 +123,7 @@ R.I.P RARBG
 
 ## 🗻 Anime
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Anime piracy goes hard as fuck.
+THE ONE PIECE IS REAL
 
 ### Browser streaming
 [AniWave (formerly 9anime.me)](https://aniwave.to/home) - Like AniWatch but with better skips and less downtime \
@@ -173,7 +172,7 @@ If you really want to torrent music you will have to find some private trackers.
 
 ## 🎮 Games
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Again please be careful of viruses. If possible use DODI or FatGirl repacks. They are curated and will therefore almost never contain ewwwy eww stuff.
+Again please be careful of viruses
 
 ### Browser gaming
 [Play Retro Games Online](https://www.playretrogames.com) \
@@ -191,7 +190,7 @@ Again please be careful of viruses. If possible use DODI or FatGirl repacks. The
 
 ## 📚 Books
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Ebooks are in their nature very small file sizes, so it might be worth it to just DDL most stuff.
+Might be worth just to DDL
 
 ### Browser reading
 [MangaReader](https://mangareader.to/home) \
@@ -218,29 +217,18 @@ Ebooks are in their nature very small file sizes, so it might be worth it to jus
 
 ## 💋 XXX
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
-Onlyfans & fansly leaks ftw.
+AWOOGA
 
 ### Browser streaming
-[Jav Guru](https://jav.guru) \
-[JAVGG](https://javgg.net) \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
-[Rule34Video](https://rule34video.com) \
-[UnderHentai](https://www.underhentai.net) \
-[Hanime](https://hanime.tv) \
 [HotPornFile](https://www.hotpornfile.org)
 
 ### Direct downloading
-[Jav Guru](https://jav.guru) \
-[JAVGG](https://javgg.net) \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
-[Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
-[Rule34Video](https://rule34video.com) \
-[UnderHentai](https://www.underhentai.net) \
-[SFM Compile Club](https://sfmcompile.club)
+[Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks
 
 ### Torrenting
-[UnderHentai](https://www.underhentai.net) \
 [Sukebei Nyaa](https://sukebei.nyaa.si) \
 [PornRips](https://pornrips.to) \
 [SexyPorn](https://sxyprn.com) \
@@ -257,7 +245,7 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 
-### Movies
+### Release types
 [Wikipedia - Pirated movie release types](https://en.wikipedia.org/wiki/Pirated_movie_release_types)
 
 ### XXX
