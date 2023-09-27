@@ -1,6 +1,6 @@
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
-This guide also assumes you know the basics. How to torrent, how to navigate sites etc. If this is not the case, refer to [other guides's](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-other-guides) beginners guides. \
+This guide also assumes you know the basics. How to torrent, how to navigate sites etc. If this is not the case, refer to [other guides's](https://github.com/7x5rg/piracy-wiki/tree/main#general) beginners guides. \
 The websites listed are listed in order. So from best to worst. \
 Stay safe!
 
