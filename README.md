@@ -13,7 +13,7 @@ Stay safe!
 
 # 💾 Table of contents
 * [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
-  * [VPN](https://github.com/7x5rg/piracy-wiki#vpn)
+  * [VPNs](https://github.com/7x5rg/piracy-wiki#vpn)
   * [Mediaplayers](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#mediaplayers)
   * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki#direct-downloading-tools)
   * [Torrenting clients](https://github.com/7x5rg/piracy-wiki#torrenting-clients)
@@ -63,7 +63,7 @@ Stay safe!
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Before you begin downloading you should make the necessary security precautions, and get the right tools.
 
-### VPN
+### VPNs
 [Torguard](https://torguard.net) \
 [Mullvad](https://mullvad.net) - Doesn't allow portforwarding<sup>[?](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for)</sup> \
 [Proton VPN](https://protonvpn.com)
