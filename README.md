@@ -1,4 +1,4 @@
-↖️ Click here for a table of contents.
+↖️ Table of contents
 
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
 This a sort of wiki I've made from the experience I've gathered while browsing the different sites I've found from other wikis and guides. \
@@ -10,56 +10,6 @@ Stay safe!
 > I'm not responsible for your actions. \
 > I do not condone anything illegal. \
 > This is for educational purposes only.
-
----
-
-# 💾 Table of contents
-* [🔧 Tools](https://github.com/7x5rg/piracy-wiki/tree/main#-tools)
-  * [VPNs](https://github.com/7x5rg/piracy-wiki#vpns)
-  * [Mediaplayers](https://github.com/7x5rg/piracy-wiki/tree/main#mediaplayers)
-  * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloading-tools)
-  * [Torrenting clients](https://github.com/7x5rg/piracy-wiki/tree/main#torrenting-clients)
-  * [Adblocker & anti-virus software](https://github.com/7x5rg/piracy-wiki/tree/main#adblocker--anti-virus-software)
-  * [Subtitles](https://github.com/7x5rg/piracy-wiki/tree/main#subtitles)
-* [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki/tree/main#direct-downloading)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki/tree/main#torrenting)
-* [📺 Movies & TV](https://github.com/7x5rg/piracy-wiki/tree/main#-movies--tv)
-  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming)
-  * [Mobile streaming](https://github.com/7x5rg/piracy-wiki#mobile-streaming)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-1)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-1)
-* [🗻 Anime](https://github.com/7x5rg/piracy-wiki/tree/main#-anime)
-  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-1)
-  * [Mobile streaming](https://github.com/7x5rg/piracy-wiki#mobile-streaming-1)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-2)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-2)
-* [🎵 Music](https://github.com/7x5rg/piracy-wiki/tree/main#-music)
-  * [Mobile listening](https://github.com/7x5rg/piracy-wiki/tree/main#mobile-listening)
-  * [Desktop listening](https://github.com/7x5rg/piracy-wiki#desktop-listening)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-3)
-* [🎮 Games](https://github.com/7x5rg/piracy-wiki/tree/main#-games)
-  * [Browser gaming](https://github.com/7x5rg/piracy-wiki#browser-gaming)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-4)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-3)
-* [🕹️ Emulators](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#%EF%B8%8F-emulators)
-  * Coming soon...
-* [📚 Books](https://github.com/7x5rg/piracy-wiki#-books)
-  * [Browser reading](https://github.com/7x5rg/piracy-wiki#browser-reading)
-  * [Mobile reading](https://github.com/7x5rg/piracy-wiki#mobile-reading)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-5)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-4)
-* [🎧 Audiobooks](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-audiobooks)
-  * Coming soon...
-* [💋 XXX](https://github.com/7x5rg/piracy-wiki/tree/main#-xxx)
-  * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-2)
-  * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
-  * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
-* [📜 Other wikis/guides](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-other-wikisguides)
-  * [General](https://github.com/7x5rg/piracy-wiki#general)
-  * [Info](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#info)
-  * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
-  * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
 
 ---
 
