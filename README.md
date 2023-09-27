@@ -8,7 +8,6 @@ The websites listed are listed in order. So from best to worst.
 * [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
   * [VPN](https://github.com/7x5rg/piracy-wiki#vpn)
   * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki#direct-downloading-tools)
-  * [YouTube tools](https://github.com/7x5rg/piracy-wiki#youtube-tools)
   * [Torrenting clients](https://github.com/7x5rg/piracy-wiki#torrenting-clients)
   * [Adblocker](https://github.com/7x5rg/piracy-wiki#adblocker)
   * [Anti-virus software](https://github.com/7x5rg/piracy-wiki#anti-virus-software)
@@ -61,9 +60,6 @@ Before you begin downloading you should make the necessary security precautions,
 
 ### Direct downloading tools
 [JDownloader](https://jdownloader.org)
-
-### YouTube tools
-[Revanced](https://revanced.app) \
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) \
 For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
 For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
