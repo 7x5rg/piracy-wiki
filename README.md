@@ -14,7 +14,6 @@ Stay safe!
 ---
 
 ## 🔧 Tools
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Right tools for the right job.
 
 ### VPNs
@@ -49,7 +48,6 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 ---
 
 ## ⚒️ General purpose
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 For all your needs.
 
 ### Direct downloading
@@ -64,7 +62,6 @@ For all your needs.
 ---
 
 ## 📺 Movies & TV
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 R.I.P RARBG
 
 ### Browser streaming
@@ -95,7 +92,6 @@ R.I.P RARBG
 ---
 
 ## 🗻 Anime
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 THE ONE PIECE IS REAL
 
 ### Browser streaming
@@ -129,7 +125,6 @@ THE ONE PIECE IS REAL
 ---
 
 ## 🎵 Music
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 If you really want to torrent music you will have to find some private trackers. Look on reddit.
 
 ### Mobile listening
@@ -148,7 +143,6 @@ If you really want to torrent music you will have to find some private trackers.
 ---
 
 ## 🎮 Games
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Again please be careful of viruses
 
 ### Browser gaming
@@ -171,7 +165,6 @@ Coming soon...
 ---
 
 ## 📚 Books
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Might be worth just to DDL
 
 ### Browser reading
@@ -206,7 +199,6 @@ Coming soon...
 ---
 
 ## 💋 XXX
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 AWOOGA
 
 ### Browser streaming
@@ -227,7 +219,6 @@ AWOOGA
 ---
 
 ## 📜 Other wikis/guides
-[💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Most of this guide deserves the credit of r/Piracy's megathread.
 
 ### General
