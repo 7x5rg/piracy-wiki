@@ -1,16 +1,22 @@
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
-The websites listed are listed in order. So from best to worst.
+The websites listed are listed in order. So from best to worst. \
+Stay safe!
+
+> Disclaimer: \
+> I'm not responsible for your actions. \
+> I do not condone anything illegal. \
+> This is for educational purposes only.
 
 ---
 
 # 💾 Table of contents
 * [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
   * [VPN](https://github.com/7x5rg/piracy-wiki#vpn)
+  * [Mediaplayers](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#mediaplayers)
   * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki#direct-downloading-tools)
   * [Torrenting clients](https://github.com/7x5rg/piracy-wiki#torrenting-clients)
-  * [Adblocker](https://github.com/7x5rg/piracy-wiki#adblocker)
-  * [Anti-virus software](https://github.com/7x5rg/piracy-wiki#anti-virus-software)
+  * [Adblocker & anti-virus software](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#adblocker--anti-virus-software)
   * [Subtitles](https://github.com/7x5rg/piracy-wiki#subtitles)
 * [⚒️ General purpose](https://github.com/7x5rg/piracy-wiki/tree/main#%EF%B8%8F-general-purpose)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading)
@@ -38,6 +44,8 @@ The websites listed are listed in order. So from best to worst.
   * [Mobile reading](https://github.com/7x5rg/piracy-wiki#mobile-reading)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-5)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-4)
+* [🎧 Audiobooks](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-audiobooks)
+  * Coming soon...
 * [💋 XXX](https://github.com/7x5rg/piracy-wiki/tree/main#-xxx)
   * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-2)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
@@ -56,7 +64,13 @@ Before you begin downloading you should make the necessary security precautions,
 
 ### VPN
 [Torguard](https://torguard.net) \
-[Mullvad](https://mullvad.net)
+[Mullvad](https://mullvad.net) - Doesn't allow portforwarding<sup>[?](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for)</sup> \
+[Proton VPN](https://protonvpn.com)
+
+### Mediaplayers
+[VLC](https://www.videolan.org/vlc) \
+[MPV.net](https://github.com/mpvnet-player/mpv.net) \
+[MPV](https://mpv.io) - For non-Windows systems
 
 ### Direct downloading tools
 [JDownloader](https://jdownloader.org) \
@@ -65,13 +79,12 @@ For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
 For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
 ### Torrenting clients
-[qBittorrent](https://www.qbittorrent.org) \
-[Transmission](https://transmissionbt.com/)
+[qBittorrent](https://www.qbittorrent.org) - Bind VPN interface to client<sup>[?](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent)</sup> \
+[Deluge](https://deluge-torrent.org) \
+[Transmission](https://transmissionbt.com)
 
-### Adblocker
-[uBlock Origin](https://ublockorigin.com)
-
-### Anti-virus software
+### Adblocker & anti-virus software
+[uBlock Origin](https://ublockorigin.com) \
 [Malwarebytes](https://www.malwarebytes.com)
 
 ### Subtitles
@@ -85,7 +98,8 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 For all your needs.
 
 ### Direct downloading
-[Internet Archive](https://archive.org)
+[Internet Archive](https://archive.org) \
+[SoftArchive](https://softarchive.is/full) <sup>[Proxy1](https://sanet.lc/full)</sup>
 
 ### Torrenting
 [The Pirate Bay](https://thepiratebay.org) <sup>[TOR](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion)</sup> \
@@ -221,6 +235,11 @@ Might be worth just to DDL
 
 ---
 
+## 🎧 Audiobooks
+Coming soon...
+
+---
+
 ## 💋 XXX
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 AWOOGA
@@ -249,7 +268,9 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 ### General
 [r/Piracy's megathread](https://www.reddit.com/r/Piracy/wiki/megathread) <sup>[Mirror1](https://rentry.co/megathread) • [Mirror2](https://rentry.org/megathread)</sup> \
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) <sup>[Mirror1](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy)</sup> \
-[Champagne Piracy Wiki](https://champagne.pages.dev/)
+[Champagne Piracy Wiki](https://champagne.pages.dev/) \
+[Ripped](https://ripped.guide) \
+[FreeMediaHeckYeah](https://fmhy.pages.dev)
 
 ### Release types
 [Wikipedia - Pirated movie release types](https://en.wikipedia.org/wiki/Pirated_movie_release_types)
@@ -259,4 +280,6 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 
 ### Anime/manga/hentai
 [Moe - The Index](https://theindex.moe) \
-[Moe - The Wiki](https://thewiki.moe)
+[Moe - The Wiki](https://thewiki.moe) \
+[EverythingMoe](https://everythingmoe.com) \
+[Wotaku](https://wotaku.pages.dev)
