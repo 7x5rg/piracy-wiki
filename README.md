@@ -1,5 +1,6 @@
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
 This a sort of wiki I've made from the experience I've gathered while browsing the interwebz for rips. \
+This guide also assumes you know the basics. How to torrent, how to navigate sites etc. If this is not the case, refer to [other guides's](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-other-guides) beginners guides. \
 The websites listed are listed in order. So from best to worst. \
 Stay safe!
 
@@ -155,8 +156,9 @@ THE ONE PIECE IS REAL
 [KickassAnime](https://kickassanime.am)
 
 ### Mobile streaming
-[AnimeXStream](https://github.com/mukul500/AnimeXStream) - If search doesnt work, clear cache on app. \
 [Aniyomi](https://github.com/jmir1/aniyomi) - Fork of Tachiyomi for anime \
+[Saikou](https://github.com/saikou-app/saikou) - Anime & manga \
+[AnimeXStream](https://github.com/mukul500/AnimeXStream) - If search doesnt work, clear cache on app. \
 [Cloudstream](https://github.com/recloudstream/cloudstream)
 
 ### Direct downloading
@@ -213,12 +215,15 @@ Again please be careful of viruses
 Might be worth just to DDL
 
 ### Browser reading
-[MangaReader](https://mangareader.to/home) \
-[MangaFire](https://mangafire.to/home) \
+[MangaReader](https://mangareader.to/home) - Manga \
+[MangaFire](https://mangafire.to/home) - Manga \
+[ComicK](https://comick.app/home) - Manga \
+[MangaDex](https://mangadex.org/) - Manga \
 [ComicExtra](https://comicextra.net) \
-[Project Gutenberg](https://www.gutenberg.org)
+[Project Gutenberg](https://www.gutenberg.org) \
 
 ### Mobile reading
+[Saikou](https://github.com/saikou-app/saikou) - Anime & manga \
 [Tachiyomi](https://tachiyomi.org) \
 [Libgen for android](https://github.com/manuelvargastapia/libgen_mobile_app) \
 [Librebook for android](https://github.com/bagaswastu/librebook)
