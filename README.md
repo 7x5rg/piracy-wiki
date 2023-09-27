@@ -13,7 +13,7 @@ Stay safe!
 
 # 💾 Table of contents
 * [✋ Before you begin](https://github.com/7x5rg/piracy-wiki#-before-you-begin)
-  * [VPNs](https://github.com/7x5rg/piracy-wiki#vpn)
+  * [VPNs](https://github.com/7x5rg/piracy-wiki#vpns)
   * [Mediaplayers](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#mediaplayers)
   * [Direct downloading tools](https://github.com/7x5rg/piracy-wiki#direct-downloading-tools)
   * [Torrenting clients](https://github.com/7x5rg/piracy-wiki#torrenting-clients)
