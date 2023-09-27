@@ -40,6 +40,8 @@ Stay safe!
   * [Browser gaming](https://github.com/7x5rg/piracy-wiki#browser-gaming)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-4)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-3)
+* [🕹️ Emulators](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#%EF%B8%8F-emulators)
+  * Coming soon...
 * [📚 Books](https://github.com/7x5rg/piracy-wiki#-books)
   * [Browser reading](https://github.com/7x5rg/piracy-wiki#browser-reading)
   * [Mobile reading](https://github.com/7x5rg/piracy-wiki#mobile-reading)
@@ -186,6 +188,7 @@ If you really want to torrent music you will have to find some private trackers.
 
 ### Direct downloading
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
+[AnimeThemes](https://animethemes.moe) \
 [Ye unreleased tracker](https://trackerhub.vercel.app/s/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k) \
 [Travis Scott unreleased tracker](https://docs.google.com/spreadsheets/d/1n15Im4plMmRLhLSOduP7_Q92BAuihVUtS4lDQLPpHbk/edit#gid=699519374) \
 [Cover Search Engine](https://covers.musichoarders.xyz) - HQ images of album covers
@@ -207,6 +210,11 @@ Again please be careful of viruses
 ### Torrenting
 [DODI Repacks](https://dodi-repacks.site) \
 [FitGirl Repacks](https://fitgirl-repacks.site)
+
+---
+
+## 🕹️ Emulators
+Coming soon...
 
 ---
 
