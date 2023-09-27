@@ -1,4 +1,5 @@
-↖️ Table of contents
+↖️ Table of contents \
+⭐ Be sure to star and bookmark the [rentry.co backup](https://rentry.co/7x5rg-piracy-wiki)
 
 # 🏴‍☠️ 7x5rg's guide to the world of digital piracy
 This a sort of wiki I've made from the experience I've gathered while browsing the different sites I've found from other wikis and guides. \
