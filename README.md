@@ -51,9 +51,9 @@ Stay safe!
   * [Browser streaming](https://github.com/7x5rg/piracy-wiki#browser-streaming-2)
   * [Direct downloading](https://github.com/7x5rg/piracy-wiki#direct-downloading-6)
   * [Torrenting](https://github.com/7x5rg/piracy-wiki#torrenting-5)
-* [📜 Other guides](https://github.com/7x5rg/piracy-wiki/tree/main#-other-guides)
+* [📜 Other wikis/guides](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#-other-wikisguides)
   * [General](https://github.com/7x5rg/piracy-wiki#general)
-  * [Release types](https://github.com/7x5rg/piracy-wiki#release-types)
+  * [Info](https://github.com/7x5rg/piracy-wiki/edit/main/README.md#info)
   * [XXX](https://github.com/7x5rg/piracy-wiki#xxx)
   * [Anime/manga/hentai](https://github.com/7x5rg/piracy-wiki#animemangahentai)
 
@@ -266,7 +266,7 @@ AWOOGA
 
 ---
 
-## 📜 Other guides
+## 📜 Other wikis/guides
 [💾 TOC](https://github.com/7x5rg/piracy-wiki/tree/main#-table-of-contents) \
 Most of this guide deserves the credit of r/Piracy's megathread.
 
@@ -277,7 +277,7 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 [Ripped](https://ripped.guide) \
 [FreeMediaHeckYeah](https://fmhy.pages.dev)
 
-### Release types
+### Info
 [Wikipedia - Pirated movie release types](https://en.wikipedia.org/wiki/Pirated_movie_release_types)
 
 ### XXX
