@@ -43,7 +43,7 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 [Malwarebytes](https://www.malwarebytes.com)
 
 ### Subtitles
-[Open Subtitles](https://www.opensubtitles.com) \
+[Open Subtitles](https://www.opensubtitles.com) <sup>[Mirror1](https://www.opensubtitles.org)</sup> \
 [Subdl](https://subdl.com)
 
 ---
