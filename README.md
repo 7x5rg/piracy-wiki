@@ -7,7 +7,7 @@ This guide also assumes you know the basics. How to torrent, how to navigate sit
 The websites listed are listed in order. So from best to worst. \
 Stay safe!
 
-> Disclaimer: \
+> [!WARNING]
 > I'm not responsible for your actions. \
 > I do not condone anything illegal. \
 > This is for educational purposes only.
