@@ -137,7 +137,7 @@ If you really want to torrent music you will have to find some private trackers.
 ### Direct downloading
 [Free MP3 Download](https://free-mp3-download.net) - Also HQ .flac downloads \
 [AnimeThemes](https://animethemes.moe) \
-[Ye unreleased tracker](https://trackerhub.vercel.app/s/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k) \
+[Ye unreleased tracker](https://docs.google.com/spreadsheets/d/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k/edit#gid=0) \
 [Travis Scott unreleased tracker](https://docs.google.com/spreadsheets/d/1n15Im4plMmRLhLSOduP7_Q92BAuihVUtS4lDQLPpHbk/edit#gid=699519374) \
 [Cover Search Engine](https://covers.musichoarders.xyz) - HQ images of album covers
 
