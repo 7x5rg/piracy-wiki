@@ -139,6 +139,7 @@ If you really want to torrent music you will have to find some private trackers.
 [AnimeThemes](https://animethemes.moe) \
 [Ye unreleased tracker](https://docs.google.com/spreadsheets/d/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k/edit#gid=0) \
 [Travis Scott unreleased tracker](https://docs.google.com/spreadsheets/d/1n15Im4plMmRLhLSOduP7_Q92BAuihVUtS4lDQLPpHbk/edit#gid=699519374) \
+[Playboi Carti unreleased](http://unreleased.me/carti) \
 [Cover Search Engine](https://covers.musichoarders.xyz) - HQ images of album covers
 
 ---
