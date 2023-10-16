@@ -18,6 +18,8 @@ Stay safe!
 Right tools for the right job.
 
 ### VPNs
+[Torrent IP Checker (Torguard)](https://torguard.net/checkmytorrentipaddress.php)
+
 [Torguard](https://torguard.net) \
 [Mullvad](https://mullvad.net) - Doesn't allow portforwarding<sup>[?](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for)</sup> \
 [Proton VPN](https://protonvpn.com)
