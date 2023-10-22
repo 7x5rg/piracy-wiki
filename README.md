@@ -46,7 +46,8 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 
 ### Subtitles
 [Open Subtitles](https://www.opensubtitles.com) <sup>[Mirror1](https://www.opensubtitles.org)</sup> \
-[Subdl](https://subdl.com)
+[Subdl](https://subdl.com) \
+[HandBrake](https://handbrake.fr/downloads.php) - Good tool for burning subs and other encoding needs
 
 ---
 
