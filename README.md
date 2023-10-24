@@ -36,6 +36,8 @@ For videos: `yt-dlp --embed-metadata --format mp4 "<url>"` \
 For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-quality 0 "<url>"`
 
 ### Torrenting clients
+[Bittorrent tracker list](https://github.com/ngosang/trackerslist) - Amazing lists of trackers you should add in your client. I usually choose `trackers_all`
+
 [qBittorrent](https://www.qbittorrent.org) - Bind VPN interface to client<sup>[?](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent)</sup> \
 [Deluge](https://deluge-torrent.org) \
 [Transmission](https://transmissionbt.com)
