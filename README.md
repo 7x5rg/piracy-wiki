@@ -73,10 +73,10 @@ R.I.P RARBG
 ### Browser streaming
 [SFlix](https://sflix.to/home) \
 [HDToday](https://hdtoday.ru) - Good selection of subs \
+[FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
 [FlixHQ](https://flixhq.click/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
 [Seez](https://seez.su) \
-[FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
 [Smashystream](https://embed.smashystream.com) <sup>[Mirror1](https://smashystream.xyz)</sup> \
 [movie-web](https://movie-web.app) \
 [123Movies](https://123chill.to) \
@@ -90,9 +90,8 @@ R.I.P RARBG
 
 ### Torrenting
 [YTS YIFY movies](https://yts.mx) <sup>[Proxy1](https://yts.lt) • [Proxy2](https://yts.am) • [Proxy3](https://yts.ag) • [TOR](http://ytsyifyupcmxftncrnqd4bmwxvhlibhdat74w6xnmn33njxts4eeaiqd.onion)</sup> - By far the best site for movies \
-[1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup> \
-[RARBG DUMP INDEX by OlaMovies](https://rarbg.best) - With the recent shutdown of rarbg.to, this site was created for preserving the magnet links for all the torrents. \
+[1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [IMDb torrents](https://www.imdbtorrent.com/imdb-top-250-english-movies-download)
 
 ---
