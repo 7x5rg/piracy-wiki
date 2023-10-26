@@ -71,9 +71,9 @@ For all your needs.
 R.I.P RARBG
 
 ### Browser streaming
+[SFlix](https://sflix.to/home) \
 [HDToday](https://hdtoday.ru) - Good selection of subs \
 [FlixHQ](https://flixhq.click/home) \
-[SFlix](https://sflix.to/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
 [Seez](https://seez.su) \
 [FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
