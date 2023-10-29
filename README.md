@@ -72,8 +72,8 @@ R.I.P RARBG
 
 ### Browser streaming
 [SFlix](https://sflix.to/home) \
-[HDToday](https://hdtoday.ru) - Good selection of subs \
-[FMovies](https://fmovies.name) <sup>[Mirror1](https://fmovies.to) • [Mirror2](https://fmovies.wtf) • [Mirror3](https://fmovies.taxi) • [Mirror4](https://fmovies.pub) • [Mirror5](https://fmovies.cafe) • [Mirror6](https://fmovies.world)</sup> \
+[HDToday](https://hdtoday.so/home) - Good selection of subs \
+[FMovies](https://fmoviesz.to/home) \
 [FlixHQ](https://flixhq.click/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
 [Seez](https://seez.su) \
@@ -102,6 +102,7 @@ THE ONE PIECE IS REAL
 ### Browser streaming
 [AniWave (formerly 9anime.me)](https://aniwave.to/home) - Like AniWatch but with better skips and less downtime \
 [AniWatch (formerly zoro.to)](https://aniwatch.to/home) - Includes filler guide for One Piece \
+[ZORO](https://zorox.to/home) \
 [AllAnime](https://allanime.to) - High quality videos \
 [Anix](https://anix.to) \
 [LOGOSou's OnePace](https://rentry.co/onepace) \
