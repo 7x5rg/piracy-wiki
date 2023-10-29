@@ -257,3 +257,6 @@ Most of this guide deserves the credit of r/Piracy's megathread.
 [Moe - The Wiki](https://thewiki.moe) \
 [EverythingMoe](https://everythingmoe.com) \
 [Wotaku](https://wotaku.pages.dev)
+
+### Emulation
+[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
