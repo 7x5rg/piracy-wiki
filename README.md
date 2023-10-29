@@ -137,6 +137,7 @@ If you really want to torrent music you will have to find some private trackers.
 [Revanced](https://revanced.app)
 
 ### Desktop listening
+[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) \
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 ### Direct downloading
@@ -171,7 +172,7 @@ Coming soon...
 
 ---
 
-## 📚 Books
+## 📚 Ebooks
 Might be worth just to DDL
 
 ### Browser reading
@@ -209,16 +210,25 @@ Coming soon...
 AWOOGA
 
 ### Browser streaming
+[EPORNER](https://www.eporner.com) \
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
 [Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
-[HotPornFile](https://www.hotpornfile.org)
+[HotPornFile](https://www.hotpornfile.org) \
+[Sexy eGirls Forum](https://forum.sexy-egirls.com) - Leaks \
+[SexyPorn](https://sxyprn.com) \
+[HQPORNER](https://hqporner.com) \
+[Porndish](https://www.porndish.com) \
+[XFANTASY](https://www.xfantasy.com/en/)
 
 ### Direct downloading
 [Kemono](https://kemono.party) <sup>[Mirror1](https://kemono.su)</sup> - Patreon & Pixiv leaks \
-[Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks
+[Coomer](https://coomer.party) <sup>[Mirror1](https://coomer.su)</sup> - Onlyfans & fansly leaks \
+[HiDefPorn](https://hidefporn.ws) \
+[0XXX](https://0xxx.ws) \
+[SeaPorn](https://www.seaporn.org/)
 
 ### Torrenting
-[Sukebei Nyaa](https://sukebei.nyaa.si) \
+[Sukebei Nyaa](https://sukebei.nyaa.si) - JAV \
 [PornRips](https://pornrips.to) \
 [SexyPorn](https://sxyprn.com) \
 [MyPorn](https://myporn.club)
