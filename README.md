@@ -43,6 +43,8 @@ For music: `yt-dlp --embed-metadata --extract-audio --audio-format wav --audio-q
 [Transmission](https://transmissionbt.com)
 
 ### Adblocker & anti-virus software
+[uBlock YouTube mitigation](https://www.reddit.com/r/uBlockOrigin/comments/17j6ygs/youtube_antiadblock_and_ads_october_29_2023_mega/)
+
 [uBlock Origin](https://ublockorigin.com) \
 [Malwarebytes](https://www.malwarebytes.com)
 
