@@ -73,14 +73,14 @@ For all your needs.
 R.I.P RARBG
 
 ### Browser streaming
-[SFlix](https://sflix.to/home) \
-[HDToday](https://hdtoday.so/home) - Good selection of subs \
 [FMovies](https://fmoviesz.to/home) \
+[movie-web](https://movie-web.app) \
+[HDToday](https://hdtoday.so/home) - Good selection of subs \
+[SFlix](https://sflix.to/home) \
 [FlixHQ](https://flixhq.click/home) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
 [Seez](https://seez.su) \
 [Smashystream](https://embed.smashystream.com) <sup>[Mirror1](https://smashystream.xyz)</sup> \
-[movie-web](https://movie-web.app) \
 [123Movies](https://123chill.to) \
 [Soap2Day](https://soap2day.rs) <sup>[Mirror1](https://soap2day.mn)</sup>
 
