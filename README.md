@@ -66,6 +66,7 @@ For all your needs.
 [The Pirate Bay](https://thepiratebay.org) <sup>[TOR](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion)</sup> \
 [1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
 [TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup>
+[LimeTorrents](https://www.limetorrents.lol/home)
 
 ---
 
@@ -78,6 +79,7 @@ R.I.P RARBG
 [HDToday](https://hdtoday.so/home) - Good selection of subs \
 [SFlix](https://sflix.to/home) \
 [FlixHQ](https://flixhq.click/home) \
+[The Movie Archive](https://themoviearchive.site) \
 [MyFlixer](https://myflixerz.to) <sup>[Mirror1](https://myflixer.today) • [Mirror2](https://myflixertv.to) • [Mirror3](https://myflixer.it) • [Mirror4](https://myflixer.pw)</sup> \
 [Seez](https://seez.su) \
 [Smashystream](https://embed.smashystream.com) <sup>[Mirror1](https://smashystream.xyz)</sup> \
