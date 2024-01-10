@@ -65,7 +65,7 @@ For all your needs.
 ### Torrenting
 [The Pirate Bay](https://thepiratebay.org) <sup>[TOR](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion)</sup> \
 [1337x](https://1337x.to) <sup>[Mirror1](https://1337x.so) • [Mirror2](https://1337x.st) • [Mirror3](https://x1337x.ws) • [Mirror4](https://x1337x.eu) • [Mirror5](https://x1337x.se) • [TOR](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)</sup> \
-[TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup>
+[TorrentGalaxy](https://torrentgalaxy.to) <sup>[Mirror1](https://torrentgalaxy.unblockit.mov) • [Mirror2](https://torrentgalaxy.unblockninja.com) • [Proxy1](https://torrentgalaxy.org) • [Proxy2](https://tgx.rs) • [Proxy3](https://tgx.sb) • [Proxy4](https://torrentgalaxy.mx)</sup> \
 [LimeTorrents](https://www.limetorrents.lol/home)
 
 ---
